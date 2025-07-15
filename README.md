@@ -12,7 +12,7 @@
 
 | Feature | Status |
 |---------|--------|
-| ![Version](https://img.shields.io/badge/version-1.0-blue) | ✅ Trial |
+| ![Version](https://img.shields.io/badge/version-1.0-blue) | ✅ Under Development |
 
 # 📊 Diocese Income Analysis Project
 
