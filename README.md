@@ -154,9 +154,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-â­ **Star this repository if you find it helpful!**
+⭐  **Star this repository if you find it helpful!**
 
-Built with â¤ï¸ using React and modern web technologies
+Built with ❤️ using React and modern web technologies
 
 # Church of England Data Insights
 
