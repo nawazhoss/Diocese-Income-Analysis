@@ -29,7 +29,7 @@ Modular components that can be easily customized and extended. Theme support and
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## ðŸš€ Quick Start
+## 🚀 Quick Start
 
 ### Prerequisites
 - Node.js (v14 or higher)
@@ -60,13 +60,12 @@ Modular components that can be easily customized and extended. Theme support and
 
 The application will be available at `http://localhost:3000`
 
-## ðŸ“ Project Structure
-
+## 📁 Project Structure
 ```
 interactive-dashboard/
-â”œâ”€â”€ public/
-â”‚   â”œâ”€â”€ index.html
-â”‚   â””â”€â”€ favicon.ico
+├──public/
+│  ├──index.html
+│  └──favicon.ico
 â”œâ”€â”€ src/
 â”‚   â”œâ”€â”€ components/
 â”‚   â”‚   â”œâ”€â”€ Dashboard/
