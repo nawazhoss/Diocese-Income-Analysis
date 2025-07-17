@@ -80,7 +80,7 @@ interactive-dashboard/
 └──README.md
 ```
 
-## ðŸ”§ Configuration
+## 🔧  Configuration
 
 ### Environment Variables
 Create a `.env` file in the root directory:
@@ -95,7 +95,7 @@ REACT_APP_THEME=light
 - **Components**: Add or modify dashboard components in `src/components/`
 - **Data Sources**: Configure data connections in `src/utils/api.js`
 
-## ðŸ“Š Usage
+## 📊 Usage
 
 ### Basic Dashboard Setup
 ```javascript
@@ -126,7 +126,7 @@ import { LineChart, BarChart } from './components/Charts';
 />
 ```
 
-## ðŸ¤ Contributing
+## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
@@ -136,21 +136,21 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## ðŸ“ License
+## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## ðŸ™ Acknowledgments
+## 🙏 Acknowledgments
 
 - React team for the amazing framework
 - Chart.js for data visualization components
 - All contributors who help improve this project
 
-## ðŸ“ž Contact
+## 📞 Contact
 
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **LinkedIn**: [Your Name](https://linkedin.com/in/yourprofile)
-- **Email**: your.email@example.com
+- **GitHub**: [nawazhossain](https://github.com/nawazhoss)
+- **LinkedIn**: [Nawaz Hossain](https://www.linkedin.com/in/nawaz-hossain-276b4a68/)
+- **Email**: nhoss002@gmail.com
 
 ---
 
