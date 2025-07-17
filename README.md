@@ -148,9 +148,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **GitHub**: [nawazhossain](https://github.com/nawazhoss)
-- **LinkedIn**: [Nawaz Hossain](https://www.linkedin.com/in/nawaz-hossain-276b4a68/)
-- **Email**: nhoss002@gmail.com
+- 🌐 **GitHub**: [nawazhossain](https://github.com/nawazhoss)
+- 💼 **LinkedIn**: [Nawaz Hossain](https://www.linkedin.com/in/nawaz-hossain-276b4a68/)
+- 📧 **Email**: nhoss002@gmail.com
 
 ---
 
