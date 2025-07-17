@@ -66,18 +66,18 @@ interactive-dashboard/
 ├──public/
 │  ├──index.html
 │  └──favicon.ico
-â”œâ”€â”€ src/
-â”‚   â”œâ”€â”€ components/
-â”‚   â”‚   â”œâ”€â”€ Dashboard/
-â”‚   â”‚   â”œâ”€â”€ Charts/
-â”‚   â”‚   â””â”€â”€ Common/
-â”‚   â”œâ”€â”€ pages/
-â”‚   â”œâ”€â”€ styles/
-â”‚   â”œâ”€â”€ utils/
-â”‚   â”œâ”€â”€ App.js
-â”‚   â””â”€â”€ index.js
-â”œâ”€â”€ package.json
-â””â”€â”€ README.md
+├──src/
+│   ├──components/
+│   │   ├──Dashboard/
+│   │   ├──Charts/
+│   │   └──Common/
+│   ├──pages/
+│   ├──styles/
+│   ├──utils/
+│   ├──App.js
+│   └──index.js
+├──package.json
+└──README.md
 ```
 
 ## ðŸ”§ Configuration
