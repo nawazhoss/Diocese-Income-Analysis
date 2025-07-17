@@ -146,7 +146,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Chart.js for data visualization components
 - All contributors who help improve this project
 
-## 📞 Contact
+## 📞 Contact < use Ctrl+Click or Right-click  to open in a new tab >
 
 - 🌐 **GitHub**: [nawazhossain](https://github.com/nawazhoss)
 - 💼 **LinkedIn**: [Nawaz Hossain](https://www.linkedin.com/in/nawaz-hossain-276b4a68/)
