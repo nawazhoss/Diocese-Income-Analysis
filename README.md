@@ -6,21 +6,21 @@ A modern, responsive React-based dashboard for data visualization and analytics
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/yourusername/interactive-dashboard)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-## âœ¨ Features
+## ✨ Features
 
-### ðŸ“Š Real-time Analytics
+### 📊 Real-time Analytics
 Interactive charts and graphs that update in real-time, providing instant insights into your data with smooth animations and responsive design.
 
-### ðŸŽ¨ Modern UI/UX
+### 🎨 Modern UI/UX
 Clean, intuitive interface built with React and modern CSS techniques. Fully responsive design that works seamlessly across all devices.
 
-### âš¡ High Performance
+### ⚡ High Performance
 Optimized for speed with efficient state management, lazy loading, and component optimization for smooth user experience.
 
-### ðŸ”§ Customizable
+### 🔧 Customizable
 Modular components that can be easily customized and extended. Theme support and flexible configuration options.
 
-## ðŸ› ï¸ Tech Stack
+## 🛠️ Tech Stack
 
 ![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
