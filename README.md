@@ -14,7 +14,7 @@
 |---------|--------|
 | ![Version](https://img.shields.io/badge/version-1.0-blue) | ✅ Under Development |
 
-# 📊 Diocese Income Analysis
+# 📊 Diocese Income Analysis Introduction
 
 This repository explores and visualises publicly available data published by the Church of England, including:
 
