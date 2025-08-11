@@ -43,7 +43,7 @@ All data used in this project is sourced from official Church of England open da
 
 - Cleaned and structured datasets ranging years from 2014 to 2023
 - Interactive visualizations and dashboards exploring trends and patterns
-- Filter tools for comparing dioceses, and years
+- Dynamic filter tools for comparing dioceses, and years
 
 ## 📈 Sample Visualization
 Below is an infographic summarizing where money comes from and where it goes (2023):
