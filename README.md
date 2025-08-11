@@ -46,6 +46,6 @@ All data used in this project is sourced from official Church of England open da
 - Dynamic filter tools for comparing dioceses, and years
 
 ## 📈 Sample Visualization
-Below is an infographic summarizing where money comes from and where it goes (2023):
+Below is an infographic summarizing where the Church's money comes from and where it has gone, typically, over the period 2014-2023:
 
-![Attendance Trend
+![Dashboard Screenshot](images/dashboard_pie_charts.png)
