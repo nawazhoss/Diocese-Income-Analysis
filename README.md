@@ -80,6 +80,9 @@ This first dashboard shows the long-term trend and post-pandemic recovery. 2023 
 - **Interactive Elements**: Click diocese names to focus, hover for exact values
 - Identifies highest and lowest performing dioceses financially
 
+
+### 📈 More Dashboards are coming ... 
+
 ## How to Use the Dashboards
 
 1. **Year Filtering**: Use the year slider/dropdown to focus on specific time periods
