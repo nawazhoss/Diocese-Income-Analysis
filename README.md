@@ -63,7 +63,7 @@ The analysis covers:
 
 ### 📊 [Income & Expenditure Trends](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_incexp_trends/Dashboard1)
 
-This first dashboard shows the long-term trend and post-pandemic recovery. 2023 saw income and expenditure recover to pre-pandemic levels. The chart doesn't show the effects of inflation which are shown later.
+This first dashboard shows the long-term trend and post-pandemic recovery. 2023 saw income and expenditure recover to pre-pandemic levels, but what the chart doesn't show is the effects of inflation and how this afffected income and expenditure. This aspect is shown more clearly in a later dashboard.
 
 **Features:**
 - 10-year overview of financial trends across all dioceses
