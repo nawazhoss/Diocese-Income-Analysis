@@ -49,3 +49,9 @@ All data used in this project is sourced from official Church of England open da
 Below is an infographic summarizing where the Church's money typically comes from and where it has gone over the period 2014-2023:
 
 ![Dashboard Screenshot](images/dashboard-infographic.png)
+
+
+## Interactive Dashboards
+
+📊 [Income & Expenditure Overview](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_incexp_trends/Dashboard1)
+
