@@ -52,11 +52,7 @@ Below is an infographic summarizing where the Church's money typically comes fro
 
 ## Interactive Dashboards
 
-<img src="https://public.tableau.com/static/images/di/diocesan_incexp_trends/Dashboard1/1.png" width="800" alt="Dashboard Preview"
-    width="800" 
-    height="600" 
-    alt="Income & Expenditure Dashboard" 
-    style="max-width: 100%; height: auto;">
+💡 **Tip**: Right-click links below and select "Open in new tab" to keep this README open
 📊 <a href="https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_incexp_trends/Dashboard1" target="_blank">Income & Expenditure 10 Year Overview</a>
 
 <!-- 📊 [Income & Expenditure Overview](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_incexp_trends/Dashboard1) -->
