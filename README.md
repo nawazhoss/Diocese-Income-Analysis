@@ -6,7 +6,7 @@
   <tr>
     <td><img src="/images/Church%20of%20England%20Logo%20Version%202.png" alt="Alt text" width="150"></td>
     <!-- <td><h2>About Me</h2></td> -->
-    <td><h4>Welcome to my Church of England Data Insights Project! This repository showcases a personal project to demonstrate skills in data manipulation, cleaning, analysis, and visualisation. The project highlights expertise in Excel and Tableau.
+    <td><h4>Welcome to my Church of England Data Insights Project! This site showcases a personal project to demonstrate skills in data manipulation, cleaning, analysis, and visualisation. The project highlights expertise in Excel and Tableau.
     This repository explores and visualises publicly available data published by the Church of England, including:  💷 **Parish finance and giving** and 📅 **Church attendance trends**. </h4></td>
   </tr>
 </table>
