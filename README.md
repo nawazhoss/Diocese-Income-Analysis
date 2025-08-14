@@ -61,6 +61,8 @@ The analysis covers:
 
 ## Interactive Dashboards
 
+💡 **Tip**: Use Ctrl+click on the links below to "Open in a new tab" and keep this README page open
+
 ### 📊 [Income & Expenditure Trends](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_incexp_trends/Dashboard1)
 
 This first dashboard shows the long-term trend and post-pandemic recovery. 2023 saw income and expenditure recover to pre-pandemic levels, but what the chart doesn't show are the effects of inflation and how this afffected income and expenditure. This aspect is shown more clearly in a later dashboard. However, income continued to exceed expenditure, as it has done every year since 2011, with a 3.5% margin reported for 2023. 
@@ -92,7 +94,6 @@ This first dashboard shows the long-term trend and post-pandemic recovery. 2023 
 - Impact of external factors on church finances
 - Regional variations in financial performance
 
-💡 **Tip**: Use Ctrl+click on the links below to "Open in new tab" and keep this README page open
 
 <!-- 📊 <a href="https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_incexp_trends/Dashboard1" target="_blank">Income & Expenditure trend 10 Year Overview</a> -->
 
