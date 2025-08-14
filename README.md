@@ -49,13 +49,51 @@ Below is an infographic summarizing where the Church's money typically comes fro
 
 ![Dashboard Screenshot](images/dashboard-infographic.png)
 
+# Interactive Dashboards
+
+## Dataset Overview
+
+The analysis covers:
+- **Time Period**: 2014-2023 (10 years)
+- **Geographic Scope**: All Church of England dioceses
+- **Financial Metrics**: Annual income and expenditure data
+- **Data Source**: Church of England parish finance statistics
+
 ## Interactive Dashboards
+
+### 📊 [Income & Expenditure Trends](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_incexp_trends/Dashboard1)
+**Features:**
+- 10-year overview of financial trends across all dioceses
+- **Filters Available**: Year range, individual dioceses
+- **Interactive Elements**: Hover for detailed figures, click to highlight specific years
+- Shows both income (orange) and expenditure (blue) trend lines
+
+### 📈 [Diocesan Comparison Analysis](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_incexp_trends/Dashboard2)
+**Features:**
+- Side-by-side comparison of all dioceses
+- **Filters Available**: Select specific years, filter by income/expenditure ranges
+- **Interactive Elements**: Click diocese names to focus, hover for exact values
+- Identifies highest and lowest performing dioceses financially
+
+## How to Use the Dashboards
+
+1. **Year Filtering**: Use the year slider/dropdown to focus on specific time periods
+2. **Diocese Selection**: Click on diocese names or use the filter panel to compare specific regions
+3. **Data Exploration**: Hover over data points for detailed financial figures
+4. **Trend Analysis**: Toggle between income and expenditure views using the legend
+
+## Key Insights
+
+- Overall financial trends across the decade
+- Dioceses showing significant growth or decline
+- Impact of external factors on church finances
+- Regional variations in financial performance
 
 💡 **Tip**: Use Ctrl+click on the links below to "Open in new tab" and keep this README page open
 
-📊 <a href="https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_incexp_trends/Dashboard1" target="_blank">Income & Expenditure trend 10 Year Overview</a>
+<!-- 📊 <a href="https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_incexp_trends/Dashboard1" target="_blank">Income & Expenditure trend 10 Year Overview</a> -->
 
-📊 <a href="https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_incexp_trends/Dashboard2" target="_blank">Income & Expenditure per Diocese</a>
+<!-- 📊 <a href="https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_incexp_trends/Dashboard2" target="_blank">Income & Expenditure per Diocese</a> -->
 
 <!-- 📊 [Income & Expenditure Overview](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_incexp_trends/Dashboard1) -->
 
