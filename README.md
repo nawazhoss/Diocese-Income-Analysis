@@ -15,7 +15,7 @@
 |---------|--------|
 | ![Version](https://img.shields.io/badge/version-1.0-blue) | ✅ Under Development |
 
-# 📊 Diocese Income & Expenditure Introduction
+# Church of England Diocesan Financial Analysis (2014-2023)
 
 <!-- - 🏛️ **Parish demographics and structures** -->
 
@@ -29,8 +29,7 @@ The Church of England regularly publishes a wide range of statistics to support 
 - Energy Footprint Tool and Energy Toolkit  
 - Fresh Expressions of Church  
 
-While these are all valuable areas of study, this project specifically concentrates on the Church's financial performance aggregated to diocesan level. It explores the 
-**sources of income**, **areas of expenditure**, and **Church attendance**. 
+While these are all valuable areas of study, this project analyzes financial trends across Church of England dioceses over a 10-year period, examining income and expenditure patterns to identify key insights and regional variations.
 
 The goal is to help a congregation to see how their contributions create ministry impact while maintaining the financial transparency that builds trust and accountability. This is achieved through visualizations, and interactive tools. 
 
