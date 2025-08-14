@@ -69,7 +69,7 @@ This first dashboard shows the long-term trend and post-pandemic recovery. 2023 
 
 **Features:**
 - 10-year overview of financial trends across all dioceses
-- **Filters Available**: Year range, individual dioceses
+- **Filters Available**: Filter by individual dioceses
 - **Interactive Elements**: Hover for detailed figures, click to highlight specific years
 - Shows both income (orange) and expenditure (blue) trend lines
 
