@@ -70,18 +70,18 @@ The analysis covers:
 - 10-year overview of financial trends across all dioceses
 - **Filters Available**: Filter by individual dioceses
 - **Interactive Elements**: Hover for detailed figures, click to highlight specific years
-- Shows both income (orange) and expenditure (blue) trend lines
+- Compares actual income and expenditure with values adjusted for inflation (real terms 2023)
 
 **Summary:**
 To provide meaningful comparisons, this first dashboard shows the long-term trend in income and expenditure from 2003 to 2022. Although 2023 saw income and expenditure recover to pre-pandemic levels, they continue to be eroded by the effects of inflation. Real terms income and expenditure (i.e. adjusted for inflation) were both slightly down on corresponding totals from 2022. Real terms income was 15% lower and expenditure 16% lower than in 2019. Income continued to exceed expenditure, as it has done every year since 2011, with a 3.5% margin reported for 2023. Real terms expenditure was lower in 2023 than in any of the previous twenty years. 
 
-### 📈 Sources of Income & Expenditure |  [Dashboard 1](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_dashboard2/Dashboard1)  |  [Dashboard 2](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_dashboard3/Dashboard2)  |  
+### 📈 Sources of Income & Areas of Expenditure |  [Dashboard 1](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_dashboard2/Dashboard1)  |  [Dashboard 2](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_dashboard3/Dashboard2)  |  
 
 **Features:**
-- Side-by-side comparison of all dioceses
-- **Filters Available**: Select specific years, filter by income/expenditure ranges
-- **Interactive Elements**: Click diocese names to focus, hover for exact values
-- Identifies highest and lowest performing dioceses financially
+- Overview of income and expenditure across all dioceses
+- **Filters Available**: Select specific dioceses
+- **Interactive Elements**: Click category names to focus, hover for exact values
+- Identifies largest sources of income and largest costs financially
 
 **Summary:**
 The largest source of income was giving, which (together with tax recovered) accounted for £596 million. The largest costs were mission and ministry (comprising diocesan Common Fund contributions, mission giving, mission outreach and staff expenses, of which £315 million were through contributions to diocesan Common Fund. 
