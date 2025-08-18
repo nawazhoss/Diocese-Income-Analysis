@@ -67,7 +67,7 @@ The analysis covers:
 ### 📊 [Income & Expenditure Trends](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_dashboard1/Dashboard1) 
 
 **Features:**
-- 10-year overview of financial trends across all dioceses
+- 20-year overview of financial trends across all dioceses
 - **Filters Available**: Filter by individual dioceses
 - **Interactive Elements**: Hover for detailed figures, click to highlight specific years
 - Compares actual income and expenditure with values adjusted for inflation (real terms 2023)
