@@ -64,7 +64,7 @@ The analysis covers:
 
 💡 **Tip**: Use Ctrl+click on the links below to "Open in a new tab" and keep this README page open
 
-### 📊 [Income & Expenditure Trends](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_dashboard1/Dashboard1)
+### 📊 [Income & Expenditure Trends](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_dashboard1/Dashboard1) 
 
 **Features:**
 - 10-year overview of financial trends across all dioceses
