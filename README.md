@@ -6,8 +6,8 @@
   <tr>
     <td><img src="/images/Church%20of%20England%20Logo%20Version%202.png" alt="Alt text" width="150"></td>
     <!-- <td><h2>About Me</h2></td> -->
-    <td><h4>Welcome to my Church of England Data Insights Project! This site showcases a personal project to demonstrate skills in data manipulation, cleaning, analysis, and visualisation. The project highlights expertise in Excel and Tableau.
-    This repository explores and visualises publicly available data published by the Church of England, including:  💷 **Parish finance and giving** and 📅 **Church attendance trends**. </h4></td>
+    <td><h4>Welcome to my Church of England Data Insights Project! This site showcases a personal project to demonstrate skills in data manipulation, cleaning, analysis, and visualisation through Excel and Tableau. 
+    The project explores and visualises publicly available data published by the Church of England. </h4></td>
   </tr>
 </table>
 
@@ -22,8 +22,8 @@
 
 The Church of England regularly publishes a wide range of statistics to support research and decision-making, including:
 
-- Church attendance statistics  
-- Parish finance statistics  
+- 💷 Parish finance statistics  
+- 📅 Church attendance statistics  
 - Ministry statistics  
 - Cathedral statistics  
 - Energy Footprint Tool and Energy Toolkit  
@@ -31,7 +31,7 @@ The Church of England regularly publishes a wide range of statistics to support 
 
 While these are all valuable areas of study, this project analyzes financial trends across Church of England dioceses over a 10-year period, examining income and expenditure patterns to identify key insights and regional variations.
 
-The goal is to help a congregation to see how their contributions create ministry impact while maintaining the financial transparency that builds trust and accountability. This is achieved through visualizations, and interactive tools. 
+The goal is to help congregations to see how their contributions create ministry impact while maintaining the financial transparency that builds trust and accountability. This is achieved through visualizations, and interactive tools. 
 
 Whether you're a researcher, church leader, policy maker, or simply curious about the Church's presence and impact across England, this project aims to provide meaningful insights grounded in real data.
 
