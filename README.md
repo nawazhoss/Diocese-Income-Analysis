@@ -66,14 +66,14 @@ The analysis covers:
 
 ### 📊 [Income & Expenditure Trends](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_incexp_trends/Dashboard1)
 
-**Summary:**
-This first dashboard shows the long-term trend and post-pandemic recovery. 2023 saw income and expenditure recover to pre-pandemic levels, but what the chart doesn't show are the effects of inflation and how this afffected income and expenditure. This aspect is shown more clearly in a later dashboard. However, income continued to exceed expenditure, as it has done every year since 2011, with a 3.5% margin reported for 2023. 
-
 **Features:**
 - 10-year overview of financial trends across all dioceses
 - **Filters Available**: Filter by individual dioceses
 - **Interactive Elements**: Hover for detailed figures, click to highlight specific years
 - Shows both income (orange) and expenditure (blue) trend lines
+
+**Summary:**
+To provide meaningful comparisons, this first dashboard shows the long-term trend in income and expenditure from 2003 to 2022. Although 2023 saw income and expenditure recover to pre-pandemic levels, they continue to be eroded by the effects of inflation. Real terms income and expenditure (i.e. adjusted for inflation) were both slightly down on corresponding totals from 2022. Real terms income was 15% lower and expenditure 16% lower than in 2019. Income continued to exceed expenditure, as it has done every year since 2011, with a 3.5% margin reported for 2023. Real terms expenditure was lower in 2023 than in any of the previous twenty years. 
 
 ### 📈 [Diocesan Comparison Analysis](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_incexp_trends/Dashboard2)
 **Features:**
