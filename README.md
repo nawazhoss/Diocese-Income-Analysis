@@ -75,7 +75,7 @@ The analysis covers:
 **Summary:**
 To provide meaningful comparisons, this first dashboard shows the long-term trend in income and expenditure from 2003 to 2022. Although 2023 saw income and expenditure recover to pre-pandemic levels, they continue to be eroded by the effects of inflation. Real terms income and expenditure (i.e. adjusted for inflation) were both slightly down on corresponding totals from 2022. Real terms income was 15% lower and expenditure 16% lower than in 2019. Income continued to exceed expenditure, as it has done every year since 2011, with a 3.5% margin reported for 2023. Real terms expenditure was lower in 2023 than in any of the previous twenty years. 
 
-### 📈 Sources of Income & Areas of Expenditure |  [Dashboard 1](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_dashboard2/Dashboard1)  |  [Dashboard 2](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_dashboard3/Dashboard2)  |  
+### 📈 Sources of Income & Areas of Expenditure |  [Dashboard 1](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_dashboard2/Dashboard2)  |  [Dashboard 2](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_dashboard3/Dashboard3)  |  
 
 **Features:**
 - Overview of income and expenditure across all dioceses
@@ -86,7 +86,7 @@ To provide meaningful comparisons, this first dashboard shows the long-term tren
 **Summary:**
 The largest source of income was giving, which (together with tax recovered) accounted for £596 million. The largest costs were mission and ministry (comprising diocesan Common Fund contributions, mission giving, mission outreach and staff expenses, of which £315 million were through contributions to diocesan Common Fund. 
 
-### 📊 [The Common Fund](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_dashboard4/Dashboard3) 
+### 📊 [The Common Fund](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_dashboard4/Dashboard4) 
 
 **Features:**
 - Focus on Diocesan Common Fund contributions across all dioceses
