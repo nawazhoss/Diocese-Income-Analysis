@@ -37,6 +37,7 @@ Whether you're a researcher, church leader, policy maker, or simply curious abou
 
 ## 🔍 Data Sources
 All data used in this project is sourced from official Church of England open datasets and publications (ref: Parish-Finance-Statistics-2023.pdf).
+The data presents a national summary of financial activity for Church of England parishes in 2023, as measured through the annual Return of Parish Finance.
 
 ## 🚀 Features
 
@@ -65,6 +66,7 @@ The analysis covers:
 
 ### 📊 [Income & Expenditure Trends](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_incexp_trends/Dashboard1)
 
+**Summary:**
 This first dashboard shows the long-term trend and post-pandemic recovery. 2023 saw income and expenditure recover to pre-pandemic levels, but what the chart doesn't show are the effects of inflation and how this afffected income and expenditure. This aspect is shown more clearly in a later dashboard. However, income continued to exceed expenditure, as it has done every year since 2011, with a 3.5% margin reported for 2023. 
 
 **Features:**
