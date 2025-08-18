@@ -76,11 +76,18 @@ The analysis covers:
 To provide meaningful comparisons, this first dashboard shows the long-term trend in income and expenditure from 2003 to 2022. Although 2023 saw income and expenditure recover to pre-pandemic levels, they continue to be eroded by the effects of inflation. Real terms income and expenditure (i.e. adjusted for inflation) were both slightly down on corresponding totals from 2022. Real terms income was 15% lower and expenditure 16% lower than in 2019. Income continued to exceed expenditure, as it has done every year since 2011, with a 3.5% margin reported for 2023. Real terms expenditure was lower in 2023 than in any of the previous twenty years. 
 
 ### 📈 [Sources of Income 1](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_dashboard2/Dashboard1)
+
 **Features:**
 - Side-by-side comparison of all dioceses
 - **Filters Available**: Select specific years, filter by income/expenditure ranges
 - **Interactive Elements**: Click diocese names to focus, hover for exact values
 - Identifies highest and lowest performing dioceses financially
+
+**Summary:**
+The largest source of income was giving, which (together with tax recovered) accounted for £596 million. The largest costs were mission and ministry, of which £315 million were through contributions to diocesan Common Fund. 
+
+The Church of England Common Fund is a contribution from every church in the Church of England towards the costs of ministry and mission across their diocese. It's essentially a system of financial sharing between parishes and their dioceses.
+The Common Fund works by having parishes contribute funding to their diocese in order to fund expenditure at the diocesan level, much of which is in support of the parishes. This includes covering costs of stipendiary clergy, including stipends, pensions, housing and training.
 
 
 ### 📈 [Diocesan Comparison Analysis](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_incexp_trends/Dashboard2)
@@ -90,6 +97,7 @@ To provide meaningful comparisons, this first dashboard shows the long-term tren
 - **Interactive Elements**: Click diocese names to focus, hover for exact values
 - Identifies highest and lowest performing dioceses financially
 
+**Summary:**
 
 ### 📈 More Dashboards are coming ... 
 
