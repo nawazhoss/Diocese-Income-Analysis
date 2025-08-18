@@ -88,6 +88,10 @@ The largest source of income was giving, which (together with tax recovered) acc
 
 ### 📊 [The Common Fund](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_dashboard4/Dashboard3) 
 
+**Features:**
+- Focus on Diocesan Common Fund contributions across all dioceses
+- **Filters Available**: Select specific categories of spending
+
 **Summary:**
 The Church of England Common Fund is a contribution from every church in the Church of England towards the costs of ministry and mission across their diocese. It's essentially a system of financial sharing between parishes and their dioceses.
 The Common Fund works by having parishes contribute funding to their diocese in order to fund expenditure at the diocesan level, much of which is in support of the parishes. This includes covering costs of stipendiary clergy, including stipends, pensions, housing and training.
