@@ -29,7 +29,10 @@ The Church of England regularly publishes a wide range of statistics to support 
 - Energy Footprint Tool and Energy Toolkit  
 - Fresh Expressions of Church  
 
-While these are all valuable areas of study, this project analyzes financial trends across Church of England dioceses over a 10-year period, examining income and expenditure patterns to identify key insights and regional variations.
+While these are all valuable areas of study, this project analyzes the financial trends across Church of England dioceses mainly over the period 2014-2023. 
+
+The project examines income and expenditure patterns to identify key insights and regional variations. Monitoring financial performance is important for keeping track of an organization’s financial health and for finding out where it might be vulnerable,
+and identify when it is necessary to take action. 
 
 The goal is to help congregations to see how their contributions create ministry impact while maintaining the financial transparency that builds trust and accountability. This is achieved through visualizations, and interactive tools. 
 
