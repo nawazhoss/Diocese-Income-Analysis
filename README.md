@@ -81,7 +81,7 @@ To provide meaningful comparisons, this first dashboard shows the long-term tren
 - Overview of income and expenditure across all dioceses
 - **Filters Available**: Select specific dioceses
 - **Interactive Elements**: Click category names to focus, hover for exact values
-- Identifies largest sources of income and largest costs financially
+- Identifies largest sources of income and areas of costs (£m)
 
 **Summary:**
 The largest source of income was giving, which (together with tax recovered) accounted for £596 million. The largest costs were mission and ministry (comprising diocesan Common Fund contributions, mission giving, mission outreach and staff expenses, of which £315 million were through contributions to diocesan Common Fund. 
