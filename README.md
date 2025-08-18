@@ -15,7 +15,7 @@
 |---------|--------|
 | ![Version](https://img.shields.io/badge/version-1.0-blue) | ✅ Under Development |
 
-# Church of England Diocesan Financial Analysis (2014-2023)
+# Church of England Diocesan Financial Analysis
 
 <!-- - 🏛️ **Parish demographics and structures** -->
 
