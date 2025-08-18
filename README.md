@@ -86,6 +86,9 @@ To provide meaningful comparisons, this first dashboard shows the long-term tren
 **Summary:**
 The largest source of income was giving, which (together with tax recovered) accounted for £596 million. The largest costs were mission and ministry (comprising diocesan Common Fund contributions, mission giving, mission outreach and staff expenses, of which £315 million were through contributions to diocesan Common Fund. 
 
+### 📊 [The Common Fund](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_dashboard4/Dashboard3) 
+
+**Summary:**
 The Church of England Common Fund is a contribution from every church in the Church of England towards the costs of ministry and mission across their diocese. It's essentially a system of financial sharing between parishes and their dioceses.
 The Common Fund works by having parishes contribute funding to their diocese in order to fund expenditure at the diocesan level, much of which is in support of the parishes. This includes covering costs of stipendiary clergy, including stipends, pensions, housing and training.
 
