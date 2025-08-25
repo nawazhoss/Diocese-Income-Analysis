@@ -43,7 +43,7 @@ Below is an infographic summarizing where the Church's money typically comes fro
 ## Dataset Overview
 
 The analysis covers:
-- **Time Period**: 2014-2023 (10 years)
+- **Time Period**: 2014-2023 (10 years), but begins with a 20-year overview of the income & expenditure trend across all dioceses
 - **Geographic Scope**: All Church of England dioceses
 - **Financial Metrics**: Annual income and expenditure data
 - **Data Source**: Church of England parish finance statistics
