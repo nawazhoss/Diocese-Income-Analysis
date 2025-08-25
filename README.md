@@ -2,9 +2,9 @@
 
 <!-- ![License](https://img.shields.io/badge/license-MIT-green) -->
 
-| Feature | Status |
-|---------|--------|
-| ![Version](https://img.shields.io/badge/version-1.0-blue) | ✅ Under Development |
+<!-- | Feature | Status | -->
+<!-- |---------|--------| -->
+<!-- | ![Version](https://img.shields.io/badge/version-1.0-blue) | ✅ Under Development | -->
 
 <table>
   <tr>
