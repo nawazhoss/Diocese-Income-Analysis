@@ -15,7 +15,7 @@
   </tr>
 </table>
 
-# Church of England Diocesan Financial Analysis
+# Diocesan Financial Analysis
 
 <!-- - 🏛️ **Parish demographics and structures** -->
 
