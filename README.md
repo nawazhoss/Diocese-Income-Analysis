@@ -1,4 +1,4 @@
-# 🚀 Church of England Data Insights
+# 🚀 Church of England Data Insights Project
 
 <!-- ![License](https://img.shields.io/badge/license-MIT-green) -->
 
@@ -22,8 +22,8 @@
 
 The Church of England regularly publishes a wide range of statistics to support research and decision-making, including:
 
-- 💷 Parish finance statistics  
-- 📅 Church attendance statistics  
+- Parish finance statistics          
+- Church attendance statistics  
 - Ministry statistics  
 - Cathedral statistics  
 - Energy Footprint Tool and Energy Toolkit  
