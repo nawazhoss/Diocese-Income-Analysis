@@ -36,16 +36,6 @@ The goal is to help congregations to see how their contributions create ministry
 
 Whether you're a researcher, church leader, policy maker, or simply curious about the Church's presence and impact across England, this project aims to provide meaningful insights grounded in real data.
 
-## 🔍 Data Sources
-All data used in this project is sourced from official Church of England open datasets and publications (ref: Parish-Finance-Statistics-2023.pdf).
-The data presents a national summary of financial activity for Church of England parishes in 2023, as measured through the annual Return of Parish Finance.
-
-## 🚀 Features
-
-- Cleaned and structured datasets ranging years from 2014 to 2023
-- Interactive visualizations and dashboards exploring trends and patterns
-- Dynamic filter tools for comparing dioceses, and years
-
 ## 📈 Sample Visualization
 Below is an infographic summarizing where the Church's money typically comes from and where it has gone over the period 2014-2023:
 
@@ -122,6 +112,16 @@ The Common Fund works by having parishes contribute funding to their diocese in 
 - Dioceses showing significant growth or decline
 - Impact of external factors on church finances
 - Regional variations in financial performance
+
+## 🔍 Data Sources
+All data used in this project is sourced from official Church of England open datasets and publications (ref: Parish-Finance-Statistics-2023.pdf).
+The data presents a national summary of financial activity for Church of England parishes in 2023, as measured through the annual Return of Parish Finance.
+
+## 🚀 Features
+
+- Cleaned and structured datasets ranging years from 2014 to 2023
+- Interactive visualizations and dashboards exploring trends and patterns
+- Dynamic filter tools for comparing dioceses, and years
 
 
 <!-- 📊 <a href="https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_incexp_trends/Dashboard1" target="_blank">Income & Expenditure trend 10 Year Overview</a> -->
