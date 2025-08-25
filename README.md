@@ -2,18 +2,18 @@
 
 <!-- ![License](https://img.shields.io/badge/license-MIT-green) -->
 
+| Feature | Status |
+|---------|--------|
+| ![Version](https://img.shields.io/badge/version-1.0-blue) | ✅ Under Development |
+
 <table>
   <tr>
     <td><img src="/images/Church%20of%20England%20Logo%20Version%202.png" alt="Alt text" width="150"></td>
     <!-- <td><h2>About Me</h2></td> -->
-    <td><h4>Welcome to my Church of England Data Insights Project! This site showcases a personal project to demonstrate skills in data manipulation, cleaning, analysis, and visualisation through Excel and Tableau. 
-    The project explores and visualises publicly available data published by the Church of England. </h4></td>
+    <td><h4>Welcome to my Church of England Data Insights Project! This site showcases a personal project to analyze the financial trends across Church of England dioceses over the period 2003-2023. 
+            The project examines income and expenditure patterns to identify key insights and regional variations. </h4></td>
   </tr>
 </table>
-
-| Feature | Status |
-|---------|--------|
-| ![Version](https://img.shields.io/badge/version-1.0-blue) | ✅ Under Development |
 
 # Church of England Diocesan Financial Analysis
 
@@ -29,9 +29,7 @@ The Church of England regularly publishes a wide range of statistics to support 
 - Energy Footprint Tool and Energy Toolkit  
 - Fresh Expressions of Church  
 
-While these are all valuable areas of study, this project analyzes the financial trends across Church of England dioceses mainly over the period 2014-2023. 
-
-The project examines income and expenditure patterns to identify key insights and regional variations. Monitoring financial performance is important for keeping track of an organization’s financial health and for finding out where it might be vulnerable,
+While these are all valuable areas of study, monitoring financial performance is important for keeping track of an organization’s financial health and for finding out where it might be vulnerable,
 and identify when it is necessary to take action. 
 
 The goal is to help congregations to see how their contributions create ministry impact while maintaining the financial transparency that builds trust and accountability. This is achieved through visualizations, and interactive tools. 
