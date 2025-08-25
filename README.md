@@ -29,8 +29,8 @@ The Church of England regularly publishes a wide range of statistics to support 
 - Energy Footprint Tool and Energy Toolkit  
 - Fresh Expressions of Church  
 
-While these are all valuable areas of study, monitoring financial performance is important for keeping track of an organization’s financial health and for finding out where it might be vulnerable,
-and identify when it is necessary to take action. The goal is to help congregations to see how their contributions create ministry impact while maintaining the financial transparency that builds trust and accountability. 
+While these are all valuable areas of study, monitoring financial performance is important for keeping track of an organization’s financial health, for finding out where it might be vulnerable, and to
+identify when it is necessary to take action. The goal is to help congregations to see how their contributions create ministry impact while maintaining the financial transparency that builds trust and accountability. 
 Whether you're a researcher, church leader, policy maker, or simply curious about the Church's presence and impact across England, this project aims to provide meaningful insights grounded in real data.
 
 <!-- ## 📈 Sample Visualization -->
