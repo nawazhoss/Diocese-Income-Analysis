@@ -58,10 +58,12 @@ The analysis covers:
 - **Interactive Elements**: Hover for detailed figures, click to highlight specific years
 - Compares actual income and expenditure with values adjusted for inflation (real terms 2023)
 
-#### How well is the Church managing its resources?
-
-**Summary:**
-To provide meaningful comparisons, this first dashboard shows the long-term trend in income and expenditure from 2003 to 2022. Although 2023 saw income and expenditure recover to pre-pandemic levels, they continue to be eroded by the effects of inflation. Real terms income and expenditure (i.e. adjusted for inflation) were both slightly down on corresponding totals from 2022. Real terms income was 15% lower and expenditure 16% lower than in 2019. Income continued to exceed expenditure, as it has done every year since 2011, with a 3.5% margin reported for 2023. Real terms expenditure was lower in 2023 than in any of the previous twenty years. 
+### How well is the Church managing its resources?
+- To provide a meaningful comparison, the first dashboard shows the long-term trend in income and expenditure from 2003 to 2022.
+- Income in **real terms** (adjusted for inflation) shows fluctuations year to year which might reflect shifts in parishoner engagement, church attendance, or giving habits.
+- Income has also exceeded expenditure for all years except during the years 2009 to 2012 when the surplus margin overall was negative or zero. This reflects cost discipline considering that the Church exists to deliver public benefit, not profit. 
+- 2023 saw income and expenditure recover to pre-pandemic levels, but in **real terms** both were down on corresponding totals from 2022, suggesting that the Church has not kept pace with the cost of living and has not maintained purchasing power since the         pandemic. 
+- Overall, the Church is operating within its means and maintaining financial stability, even if in real terms income and expenditure are lower in 2023 than in any of the previous twenty years.
 
 ### 📈 [Sources of Income & Areas of Expenditure](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_dashboard2/Dashboard2)  
 
