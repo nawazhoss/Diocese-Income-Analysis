@@ -46,27 +46,23 @@ The analysis covers:
 - **Financial Metrics**: Annual income and expenditure data
 - **Data Source**: Church of England parish finance statistics
 
-## Interactive Dashboards
-
 **Features:**
-- 20-year overview of financial trends across all dioceses
-- **Filters Available**: Filter by individual dioceses
-- **Interactive Elements**: Hover for detailed figures, click to highlight specific years
+- **Filters Available**: Filter by individual dioceses or selected years where possible
+- **Interactive Elements**: Hover for more detailed information and figures
 - Compares actual income and expenditure with values adjusted for inflation (real terms 2023)
+
+## Interactive Dashboards
 
 💡 **Tip**: Use Ctrl+click on the links below to "Open in a new tab" and keep this README page open
 
 ### 📊 [Income & Expenditure Trends - 20 Year Overview](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_dashboard1/Dashboard1) 
 
-#### How well is the Church managing its resources?
+- #### How well is the Church managing its resources?
 
 ### 📈 [Sources of Income & Areas of Expenditure](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_dashboard2/Dashboard2)  
 
-**Features:**
-- Overview of income and expenditure across all dioceses
-- **Filters Available**: Select specific dioceses
-- **Interactive Elements**: Click category names to focus, hover for exact values
-- Identifies largest sources of income and areas of costs (£m)
+- #### What does it cost to run the Church in 2023?
+- #### Where does the money go?
 
 **Summary:**
 The largest source of income was giving, which (together with tax recovered) accounted for £596 million. The largest costs were mission and ministry (comprising diocesan Common Fund contributions, mission giving, mission outreach and staff expenses, of which £315 million were through contributions to diocesan Common Fund. 
