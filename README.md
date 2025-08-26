@@ -48,17 +48,18 @@ The analysis covers:
 
 ## Interactive Dashboards
 
-💡 **Tip**: Use Ctrl+click on the links below to "Open in a new tab" and keep this README page open
-
-### 📊 [Income & Expenditure Trends - 20 Year Overview](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_dashboard1/Dashboard1) 
-
-### How well is the Church managing its resources?
-
 **Features:**
 - 20-year overview of financial trends across all dioceses
 - **Filters Available**: Filter by individual dioceses
 - **Interactive Elements**: Hover for detailed figures, click to highlight specific years
 - Compares actual income and expenditure with values adjusted for inflation (real terms 2023)
+
+💡 **Tip**: Use Ctrl+click on the links below to "Open in a new tab" and keep this README page open
+
+### 📊 [Income & Expenditure Trends - 20 Year Overview](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_dashboard1/Dashboard1) 
+
+#### How well is the Church managing its resources?
+
 ### 📈 [Sources of Income & Areas of Expenditure](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_dashboard2/Dashboard2)  
 
 **Features:**
