@@ -65,9 +65,9 @@ The analysis covers:
 #### Where does the money go?
 
 
-### 📊 [Net Income as % of Total Income](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_dashboard3/Dashboard2) 
+### 📈 [Net Income as % of Total Income](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_dashboard3/Dashboard2) 
 
-#### Are the Church's finances in surplus or deficit?
+#### Are the Church's finances year-on-year in surplus or deficit?
 
 ### 📊 [The Common Fund](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_dashboard4/Dashboard4) 
 
