@@ -71,7 +71,7 @@ The analysis covers:
 
 ### 📊 [The Common Fund](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_dashboard4/Dashboard4) 
 
-#### What is the Church's largest expenditure?
+#### What is the Church's largest expense?
 
 
 ### 📈 [Diocesan Comparison Analysis](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_incexp_trends/Dashboard2)
