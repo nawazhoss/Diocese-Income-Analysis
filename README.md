@@ -55,26 +55,26 @@ The analysis covers:
 
 💡 **Tip**: Use Ctrl+click on the links below to "Open in a new tab" and keep this README page open
 
-### 📊 [Income & Expenditure Trends - 20 Year Overview](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_dashboard1/Dashboard1) 
+### 📊 [1. Income & Expenditure Trends - 20 Year Overview](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_dashboard1/Dashboard1) 
 
 #### How well is the Church managing its resources?
 
-### 📈 [Sources of Income & Areas of Expenditure](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_dashboard2/Dashboard2)  
+### 📈 [2. Sources of Income & Areas of Expenditure](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_dashboard2/Dashboard2)  
 
 #### What does it cost to run the Church in 2023?
 #### Where does the money go?
 
 
-### 📈 [Net Income as % of Total Income](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_dashboard3/Dashboard2) 
+### 📈 [3. Net Income as % of Total Income](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_dashboard3/Dashboard2) 
 
 #### Are the Church's finances year-on-year in surplus or deficit?
 
-### 📊 [The Common Fund](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_dashboard4/Dashboard4) 
+### 📊 [4. The Common Fund](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_dashboard4/Dashboard4) 
 
 #### What is the Church's largest expense?
 
 
-### 📈 [Diocesan Comparison Analysis](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_incexp_trends/Dashboard2)
+### 📈 [5. Diocesan Comparison Analysis](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_incexp_trends/Dashboard2)
 **Features:**
 - Side-by-side comparison of all dioceses
 - **Filters Available**: Select specific years, filter by income/expenditure ranges
