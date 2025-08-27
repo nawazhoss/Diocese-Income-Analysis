@@ -57,23 +57,20 @@ The analysis covers:
 
 ### 📊 [Income & Expenditure Trends - 20 Year Overview](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_dashboard1/Dashboard1) 
 
-- #### How well is the Church managing its resources?
+#### How well is the Church managing its resources?
 
 ### 📈 [Sources of Income & Areas of Expenditure](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_dashboard2/Dashboard2)  
 
-- #### What does it cost to run the Church in 2023?
-- #### Where does the money go?
+#### What does it cost to run the Church in 2023?
+#### Where does the money go?
 
 
 ### 📊 [Net Income as % of Total Income](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_dashboard3/Dashboard2) 
 
-- #### Are the Church's finances in surplus or deficit?
+#### Are the Church's finances in surplus or deficit?
 
 ### 📊 [The Common Fund](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_dashboard4/Dashboard4) 
 
-**Features:**
-- Focus on Diocesan Common Fund contributions across all dioceses
-- **Filters Available**: Select specific categories of spending
 
 **Summary:**
 The Church of England's largest expense is the Common Fund. This is the contribution from every church in the Church of England towards the costs of ministry and mission across their diocese. It's essentially a system of financial sharing between parishes and their dioceses. The Common Fund works by having parishes contribute funding to their diocese in order to fund expenditure at the diocesan level, much of which is in support of the parishes. This includes covering costs of stipendiary clergy, including stipends, pensions, housing and training.
