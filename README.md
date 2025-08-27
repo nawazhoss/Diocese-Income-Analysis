@@ -64,8 +64,10 @@ The analysis covers:
 - #### What does it cost to run the Church in 2023?
 - #### Where does the money go?
 
-**Summary:**
-The largest source of income was giving, which (together with tax recovered) accounted for £596 million. The largest costs were mission and ministry (comprising diocesan Common Fund contributions, mission giving, mission outreach and staff expenses, of which £315 million were through contributions to diocesan Common Fund. 
+
+### 📊 [Net Income as % of Total Income](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_dashboard3/Dashboard2) 
+
+- #### Are the Church's finances in surplus or deficit?
 
 ### 📊 [The Common Fund](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_dashboard4/Dashboard4) 
 
