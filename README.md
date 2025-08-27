@@ -69,7 +69,7 @@ The analysis covers:
 
 #### Are the Church's finances year-on-year in surplus or deficit?
 
-### 📊 [The Common Fund](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_dashboard4/Dashboard4?publish=yes) 
+### 📊 [The Common Fund](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_dashboard4/Dashboard4) 
 
 #### What is the Church's largest expenditure?
 
