@@ -55,7 +55,7 @@ The analysis covers:
 
 💡 **Tips**: Use Ctrl+click on the links below to "Open in a new tab" and keep this README page open. 
 
-#### There are also info tooltips built into each dashboard, giving additional helpful context and description to the visuals presented, please hover the cursor over the "(i)" icon where available, to see the additional text. 
+#### There are also info tooltips built into each dashboard, giving additional helpful context and description to the visuals presented, please hover the cursor over the "(i)" icon where supplied, to see the additional text. 
 
 ### 📊 How well is the Church managing its resources?
 
