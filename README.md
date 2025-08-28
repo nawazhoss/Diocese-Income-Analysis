@@ -55,9 +55,9 @@ The analysis covers:
 
 💡 **Tip**: Use Ctrl+click on the links below to "Open in a new tab" and keep this README page open
 
-### 📊 [1. Income & Expenditure Trends - 20 Year Overview](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_dashboard1/Dashboard1) 
+### 📊 How well is the Church managing its resources?
 
-#### How well is the Church managing its resources?
+#### [Income & Expenditure Trends - 20 Year Overview](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_dashboard1/Dashboard1) 
 
 ### 📈 [2. Sources of Income & Areas of Expenditure](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_dashboard2/Dashboard2)  
 
