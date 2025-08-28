@@ -66,6 +66,7 @@ The analysis covers:
 ### 📈  Are the Church's finances year-on-year in surplus or deficit?
 
 #### [Net Income as % of Total Income](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_dashboard3/Dashboard2) 
+#### [A Closer Look at Church Costs (2014–2023)](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_dashboard5/Dashboard3) 
 
 ### 📊 What is the Church's largest expense?
 
