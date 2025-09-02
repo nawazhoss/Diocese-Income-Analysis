@@ -53,9 +53,17 @@ The analysis covers:
 
 ## Interactive Dashboards
 
-💡 **Tips**: Use Ctrl+click on the links below to "Open in a new tab" and keep this README page open. 
+<table>
+  <tr>
+    <td><img src="/images/icons8-info-64.png" alt="Alt text" width="150"></td>
+    <!-- <td><h2>About Me</h2></td> -->
+    <td><h4>💡 Use Ctrl+click on the links below to "Open in a new tab" and keep this README page open. 
+      There are also info tooltips built into each dashboard, giving additional helpful context and description to the visuals presented,
+      please hover the cursor over the <img src="/images/icons8-info-64.png" alt="Alt text" width="15"> icon where supplied, to see the additional text.  </h4></td>
+  </tr>
+</table>
 
-#### There are also info tooltips built into each dashboard, giving additional helpful context and description to the visuals presented, please hover the cursor over the "(i)" icon where supplied, to see the additional text. 
+💡 **Tips**: Use Ctrl+click on the links below to "Open in a new tab" and keep this README page open. 
 
 ### 📊 How well is the Church managing its resources?
 
