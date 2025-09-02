@@ -56,10 +56,11 @@ The analysis covers:
 <table>
   <tr>
     <td><img src="/images/light-bulb.png" alt="Alt text" width="150"></td>
-    <td><h4>Use Ctrl+click on the links below to "Open in a new tab" and keep this README page open. <br>
+    <td><h4>** Helpful Tips ** <br>
+      Use Ctrl+click on the links below to "Open in a new tab" and keep this README page open. <br>
       There are also info tooltips built into each dashboard, giving additional helpful context and description. <br>
       To access additional context and descriptions, hover your cursor over the <img src="/images/icons8-info-64.png" alt="Alt text" width="17"> icon within the dashboard. <br>
-      This will display a tooltip with helpful information. </h4></td>
+      This will display additional helpful information for the visualization. </h4></td>
   </tr>
 </table>
 
