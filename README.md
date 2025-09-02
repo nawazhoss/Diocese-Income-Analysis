@@ -66,25 +66,25 @@ The analysis covers:
 
 <!-- 💡 **Tips**: Use Ctrl+click on the links below to "Open in a new tab" and keep this README page open. -->
 
-### 📊 How well is the Church managing its resources?
+### How well is the Church managing its resources?
 
-#### 📌 [Income & Expenditure Trends - 20 Year Overview](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_dashboard1/Dashboard1) 
+#### ➡️ [Income & Expenditure Trends - 20 Year Overview](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_dashboard1/Dashboard1) 
 
-### 📈 What does it cost to run the Church in 2023 and where does the money go?
+### What does it cost to run the Church in 2023 and where does the money go?
 
-#### 📌 [Sources of Income & Areas of Expenditure](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_dashboard2/Dashboard2)  
+#### ➡️ [Sources of Income & Areas of Expenditure](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_dashboard2/Dashboard2)  
 
-### 📈  Are the Church's finances year-on-year in surplus or deficit?
+### Are the Church's finances year-on-year in surplus or deficit?
 
-#### 📌 [Net Income as % of Total Income](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_dashboard3/Dashboard2) 
-#### 📌 [A Closer Look at Church Costs (2014–2023)](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_dashboard5/Dashboard3) 
+#### ➡️ [Net Income as % of Total Income](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_dashboard3/Dashboard2) 
+#### ➡️ [A Closer Look at Church Costs (2014–2023)](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_dashboard5/Dashboard3) 
 
-### 📊 What is the Church's largest expense?
+### What is the Church's largest expense?
 
-#### 📌 [The Common Fund](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_dashboard4/Dashboard4) 
+#### ➡️ [The Common Fund](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_dashboard4/Dashboard4) 
 
-
-### 📈 [5. Diocesan Comparison Analysis](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_incexp_trends/Dashboard2)
+### What are the highest and lowest performing dioceses financially?
+#### ➡️ [Diocesan Comparison Analysis](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_incexp_trends/Dashboard2)
 **Features:**
 - Side-by-side comparison of all dioceses
 - **Filters Available**: Select specific years, filter by income/expenditure ranges
