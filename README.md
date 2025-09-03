@@ -79,21 +79,8 @@ The analysis covers:
 #### ➡️ [Net Income as % of Total Income](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_dashboard3/Dashboard2) 
 #### ➡️ [A Closer Look at Church Costs (2014–2023)](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_dashboard4/Dashboard3) 
 
-### What is the Church's largest expense?
-
-#### ➡️ [The Common Fund](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_dashboard4/Dashboard4) 
-
-### What are the highest and lowest performing dioceses financially?
+### Is income from parishes evenly spread across all dioceses?
 #### ➡️ [Diocesan Comparison Analysis](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_incexp_trends/Dashboard2)
-**Features:**
-- Side-by-side comparison of all dioceses
-- **Filters Available**: Select specific years, filter by income/expenditure ranges
-- **Interactive Elements**: Click diocese names to focus, hover for exact values
-- Identifies highest and lowest performing dioceses financially
-
-**Summary:**
-
-### 📈 More Dashboards are coming ... 
 
 ## How to Use the Dashboards
 
