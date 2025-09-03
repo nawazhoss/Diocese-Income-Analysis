@@ -10,7 +10,7 @@
   <tr>
     <td><img src="/images/Church%20of%20England%20Logo%20Version%202.png" alt="Alt text" width="150"></td>
     <!-- <td><h2>About Me</h2></td> -->
-    <td><h4>Welcome to my Church of England Data Insights Project! This site showcases a personal project to analyse the financial trends across Church of England dioceses over the period 2003-2023. 
+    <td><h4>Welcome to my Church of England Data Insights Project! This site showcases a personal project to analyse the financial trends across Church of England dioceses over the period 2014-2023. 
             The project examines the Church's income and expenditure patterns to identify key insights and regional variations. </h4></td>
   </tr>
 </table>
@@ -41,10 +41,10 @@ Whether you're a researcher, church leader, policy maker, or simply curious abou
 ## Dataset Overview
 
 The analysis covers:
-- **Time Period**: 2014-2023 (10 years), but begins, initially, with a 20-year overview of the income & expenditure trend across all dioceses
+- **Time Period**: 2014-2023 (10 years), but begins initially, with a 20-year (2003-2023) overview of the income & expenditure trend across all dioceses
 - **Geographic Scope**: All Church of England dioceses
 - **Financial Metrics**: Annual income and expenditure data
-- **Data Source**: Church of England parish finance statistics
+- **Data Source**: Church of England parish finance statistics 2023
 
 **Features:**
 - **Filters Available**: Filter by individual dioceses or selected years where possible
@@ -77,7 +77,7 @@ The analysis covers:
 ### Are the Church's finances year-on-year in surplus or deficit?
 
 #### ➡️ [Net Income as % of Total Income](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_dashboard3/Dashboard2) 
-#### ➡️ [A Closer Look at Church Costs (2014–2023)](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_dashboard5/Dashboard3) 
+#### ➡️ [A Closer Look at Church Costs (2014–2023)](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_dashboard4/Dashboard3) 
 
 ### What is the Church's largest expense?
 
