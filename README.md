@@ -72,7 +72,7 @@ The analysis covers:
 
 ### What does it cost to run the Church in 2023 and where does the money go?
 
-#### ➡️ [Sources of Income & Areas of Expenditure](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_dashboard2/Dashboard2)  
+#### ➡️ [Sources of Income & Areas of Expenditure](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_dashboard2/Dashboard3)  
 
 ### Are the Church's finances year-on-year in surplus or deficit?
 
