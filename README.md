@@ -74,7 +74,7 @@ The analysis covers:
 
 #### ➡️ [Sources of Income & Areas of Expenditure](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_dashboard2/Dashboard5)  
 
-### Are the Church's finances year-on-year in surplus or deficit?
+### Are the Church's finances in surplus or deficit year-on-year?
 
 #### ➡️ [Net Income as % of Total Income](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_dashboard3/Dashboard2) 
 #### ➡️ [A Closer Look at Church Costs (2014–2023)](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_dashboard4/Dashboard3) 
