@@ -41,15 +41,15 @@ Whether you're a researcher, church leader, policy maker, or simply curious abou
 ## Dataset Overview
 
 The analysis covers:
-- **Time Period**: 2014-2023 (10 years), but begins initially, with a 20-year (2003-2023) overview of the income & expenditure trend across all dioceses
-- **Geographic Scope**: All Church of England dioceses
-- **Financial Metrics**: Annual income and expenditure data
-- **Data Source**: Church of England parish finance statistics 2023
+- **Time Period**: 2014-2023 (10 years), but begins initially, with a 20-year (2003-2023) overview of the income & expenditure trend across all dioceses.
+- **Geographic Scope**: All Church of England dioceses.
+- **Financial Metrics**: Annual income and expenditure data.
+- **Data Source**: Church of England parish finance statistics 2023.
 
 **Features:**
-- **Filters Available**: Filter by individual dioceses or selected years where possible
-- **Interactive Elements**: Hover for more detailed information and figures
-- Compares actual income and expenditure with values adjusted for inflation (real terms 2023)
+- **Filters Available**: Filter by individual dioceses or selected years where possible.
+- **Interactive Elements**: Hover for more detailed information and figures.
+- Compares actual income and expenditure with values adjusted for inflation (real terms 2023).
 
 ## Interactive Dashboards
 
@@ -84,10 +84,10 @@ The analysis covers:
 
 ## How to Use the Dashboards
 
-1. **Year Filtering**: Use the year slider/dropdown to focus on specific time periods
-2. **Diocese Selection**: Click on diocese names or use the filter panel to compare specific regions
-3. **Data Exploration**: Hover over data points for detailed financial figures
-4. **Trend Analysis**: Toggle between income and expenditure views using the legend
+1. **Year Filtering**: Use the year slider/dropdown to focus on specific time periods.
+2. **Diocese Selection**: Click on diocese names or use the filter panel to compare specific regions.
+3. **Data Exploration**: Hover over data points for detailed financial figures.
+4. **Trend Analysis**: Toggle between income and expenditure views using the legend.
 
 ## Key Insights
 
@@ -106,10 +106,4 @@ The data presents a national summary of financial activity for Church of England
 - Interactive visualizations and dashboards exploring trends and patterns
 - Dynamic filter tools for comparing dioceses, and years
 
-
-<!-- 📊 <a href="https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_incexp_trends/Dashboard1" target="_blank">Income & Expenditure trend 10 Year Overview</a> -->
-
-<!-- 📊 <a href="https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_incexp_trends/Dashboard2" target="_blank">Income & Expenditure per Diocese</a> -->
-
-<!-- 📊 [Income & Expenditure Overview](https://public.tableau.com/app/profile/nawaz.hossain/viz/diocesan_incexp_trends/Dashboard1) -->
 
